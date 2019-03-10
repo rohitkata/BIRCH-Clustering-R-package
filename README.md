@@ -4,7 +4,7 @@
 
 Given a very large set of data points as input, BR_BIRCH package provides the user with a choice between obtaining cluster features  or they will have an option to choose through fit function either K-Means or Hclust to obtain clusters as the output after obtaining the cluster features
 
-##Rationale for publishing a package for Birch Clustering
+## Rationale for publishing a package for Birch Clustering
 
 BIRCH has the ability to find a good clustering solution with two scans of the data. BIRCH handles large data sets with a time complexity and space efficiency that is superior to other algorithms.
 
